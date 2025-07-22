@@ -6,4 +6,4 @@
 #  @global-owner1 and global-owner2 will be requested for
 # review when someone opends a pull request.
 
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/architect@v0.2.0
